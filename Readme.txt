@@ -27,7 +27,7 @@ else its fine to go without any updates)
 -Create new Environment named as "tensorflow"
 
 -Insall new packages named :
-******Ignore is it is already installed******
+******Ignore if it is already installed******
    1) opencv-python
    2) keras
    3) Keras-preprocessing
