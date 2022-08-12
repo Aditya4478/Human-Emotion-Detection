@@ -26,38 +26,26 @@ else its fine to go without any updates)
 
 -Create new Environment named as "tensorflow"
 
--Insall new packages named :
-******Ignore if it is already installed******
-   1)tensorfloe
+-Insall following new packages in Anaconda Navigator Prompt in tensorflow environment named :
+   1) tensorflow
    2) keras
    3) numpy
    4) mkl_fft
-   
-   1) pip install opencv-pyhton
-   2) keras
-   3) Keras-preprocessing
-   6) mkl_ftt
-   7) mkl_random
-   4) numpy
-   5) numpy-base
+   5) mkl_random
+   6) numpy
+   7) numpy-base
    8) opt_einsum
-   9) tensorflow
-*********************************************
 
--Close "Anaconda Navigator" & open "Anaconda Prompt"
+- Open Anaconda Command Prompt & write following command :
+   1) activate tensorflow
+   2) pip install opencv-python
+   
+- To Run Project open Anaconda Command Prompt & execute following steps :
+  1) Write "activate tensorflow"
+  2) Write "cd/[Path]" (Path=a pathe to reach to the file "Emotion-Detection-Master")
+     Eg: cd New-Folder\Human-Emotion-Detection
+  3) Write "python test.py"
 
--Write "activate tensorflow"
-
--Write a pathe to reach to the file "Emotion-Detection-Master"
-
-cd/[Path]
-
--Write "python test.py"
+- Press "q" to stop the project
 
 ::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-
-
-
