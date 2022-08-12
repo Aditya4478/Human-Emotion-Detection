@@ -16,7 +16,7 @@
 -----------STEPS TO INSTALL & RUN-----------
 ::::::::::::::::::::::::::::::::::::::::::::
 
--Install "Anaconda" application
+-Install "Anaconda" application from official website https://www.anaconda.com/products/distribution
 
 -Open "Anaconda Navigator"
 (There may be some updates, if you wish you can update 
