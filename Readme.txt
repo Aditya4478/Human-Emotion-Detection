@@ -36,6 +36,7 @@ else its fine to go without any updates)
    4) numpy
    5) numpy-base
    8) opt_einsum
+   9) tensorflow
 *********************************************
 
 -Close "Anaconda Navigator" & open "Anaconda Prompt"
