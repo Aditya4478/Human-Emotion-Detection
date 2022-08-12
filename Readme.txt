@@ -28,6 +28,11 @@ else its fine to go without any updates)
 
 -Insall new packages named :
 ******Ignore if it is already installed******
+   1)tensorfloe
+   2) keras
+   3) numpy
+   4) mkl_fft
+   
    1) pip install opencv-pyhton
    2) keras
    3) Keras-preprocessing
