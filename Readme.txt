@@ -28,7 +28,7 @@ else its fine to go without any updates)
 
 -Insall new packages named :
 ******Ignore if it is already installed******
-   1) opencv-python
+   1) pip install opencv-pyhton
    2) keras
    3) Keras-preprocessing
    6) mkl_ftt
